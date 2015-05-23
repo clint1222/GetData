@@ -3,7 +3,7 @@
 Sourcing the run_analysis.R file will create the following objects in R
 
 * features : descriptive names for the measurements obtained
-* subfeatures : a subset of the descriptive names that contain the text *main()* or *std()*
+* subfeatures : a subset of the descriptive names that contain the text *mean()* or *std()*
 * activityLabels : descriptive names of the activities recorded by the smartphones
 * allData : all the subject, activity, and measurement data collected into one data.frame
 * alldatasummary : an independent tidy data set with the average of each variable grouped by each subject and activity
